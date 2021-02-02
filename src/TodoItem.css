@@ -1,0 +1,9 @@
+.todo-item{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue;
+}
+
+p{
+    margin:0px;
+}
